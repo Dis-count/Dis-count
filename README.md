@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **HKUST**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My blog: https://dis-count.github.io/</h3>
 <p align="left">
 </p>
 
