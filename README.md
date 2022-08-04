@@ -17,9 +17,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dis-count&show_icons=true&locale=en" alt="dis-count" /></p>
 
 <pre>
-___                                         _
-(  _`\  _                                   ( )_![??](https://user-images.githubusercontent.com/33273755/182768037-5d6d0b5e-58ff-44bf-be56-410a462eb24c.png)
-
+___                                          _
+(  _`\  _                                   ( )_
 | | ) |(_)  ___    ___    _    _   _   ___  | ,_)
 | | | )| |/',__) /'___) /'_`\ ( ) ( )/' _ `\| |
 | |_) || |\__, \( (___ ( (_) )| (_) || ( ) || |_
